@@ -1,10 +1,10 @@
-# Waves Explorer Lite
+# Nursing Token Explorer Lite
 
-Waves Testnet Blockchain Explorer
+Nursing Token Testnet Blockchain Explorer
 
 # Demo
 
-Demo is available on http://testnet.wavesexplorer.com
+Demo is available on http://testnet.nursingtokenexplorer.com
 
 # Setup
 
