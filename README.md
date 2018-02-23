@@ -4,7 +4,7 @@ Nursing Token Testnet Blockchain Explorer
 
 # Demo
 
-Demo is available on http://testnet.nursingtokenexplorer.com
+Demo is available on http://testnet.ntexplorerlite.co/
 
 # Setup
 
